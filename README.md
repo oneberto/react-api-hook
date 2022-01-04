@@ -3,4 +3,4 @@ Just a simple React hook to manage your requests.
 
 # Video
 
-[Click here to watch!](https://github.com/oneberto/react-api-hook/edit/main/README.md)
+[Click here to watch!](https://www.youtube.com/watch?v=DZX9ejGeeBU)
